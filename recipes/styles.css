@@ -1,0 +1,11 @@
+div {
+    color:purple;
+}
+
+.alert-text {
+    color:red;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 22px;
+    background-color:rgb(100, 0, 127);
+    text-align: center;
+}
